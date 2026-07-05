@@ -18,5 +18,5 @@ The logical database design resolves complex structures using a relational model
 * **Physical Constraints:** The SQL implementation includes robust constraints, such as ensuring risk scores fall strictly between 0 and 100, and validating ownership rates.
 
 ## Repository Contents
-* `database_schema.sql`: Contains the physical database design (DDL) including table creations, primary/foreign key definitions, and sample data insertions (DML) for districts, owners, buildings, contractors, and reports.
-* `Project_Report.pdf`: The comprehensive project documentation detailing system requirements, the Entity-Relationship (E-R) diagram, logical design, and examples of complex SQL queries.
+* `IstanbulUrbanRenewalManagementSystem.sql`: Contains the physical database design (DDL) including table creations, primary/foreign key definitions, and sample data insertions (DML) for districts, owners, buildings, contractors, and reports.
+* `Istanbul Urban Renewal Management System (IURMS) Project Report.pdf`: The comprehensive project documentation detailing system requirements, the Entity-Relationship (E-R) diagram, logical design, and examples of complex SQL queries.
