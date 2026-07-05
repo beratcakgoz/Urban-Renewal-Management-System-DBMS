@@ -1,4 +1,4 @@
-# Urban Renewal Database Management System
+# Istanbul Urban Renewal Database Management System
 
 ## Overview
 This project is a comprehensive database management system designed to manage the end-to-end urban renewal processes of buildings that are at risk of earthquakes or have reached the end of their structural lifespan on a digital platform. The system centralizes building structural details, risk reports, ownership rates, and transformation projects executed by contractor firms into a single hub.
